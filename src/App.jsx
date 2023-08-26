@@ -6,7 +6,7 @@ import {getApiConfiguration , getGenres} from './store/homeSlice'
 
 import Footer from './components/footer/footer';
 import Header from './components/header/header';
-import PG_404 from './pages/404/_404';
+import PG_404 from './pages/404/NF404';
 import Explore from './pages/explore/explore';
 import Details from './pages/details/details';
 import Home from './pages/home/home';
